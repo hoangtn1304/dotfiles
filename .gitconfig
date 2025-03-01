@@ -1,0 +1,13 @@
+[user]
+	name = Hoang Tran
+	email = hoangtn1304@gmail.com
+[init]
+	defaultBranch = main
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	cm = commit
+	df = diff
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+	
